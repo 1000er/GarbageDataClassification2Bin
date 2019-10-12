@@ -1,4 +1,4 @@
-# TrashDataClassification-2Bin
+# GarbageDataClassification-2Bin
 
 This work aims towards classification of Recyclable vs Non-Recyclable Trash.
 
